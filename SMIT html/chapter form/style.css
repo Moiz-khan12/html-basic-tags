@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(145, 145, 214, 0.911);
+
+    
+}
+
+h1{
+    font-size: 40px;
+    display: inline;
+    
+}
+table{
+    width: 40%;
+    height: 520px;
+    border: 1px solid black;
+   border-radius: 8px;
+   background-color: rgb(165, 134, 224);
+   font-size: 20px;
+}
+tr:hover {
+background-color: rgba(99, 5, 241, 0.35);
+
+}
+button{
+    font-size: 14   px;
+    border-radius: 9px;
+    border-color: black;
+}
+input{
+    border-color:black;
+    border-radius: 9px;
+}
+button:hover
+{
+    background-color: rgba(96, 98, 225, 0.934);
+    border-color: black;
+}
+
+td{
+    border-radius: 10px;
+    
+}
+th{
+    border-radius: 10px;
+}
+
+select{
+    border-radius: 10px;
+    border-color: black;
+}
+
+textarea{
+     border-color: black;
+    border-radius: 15px;
+}
+
